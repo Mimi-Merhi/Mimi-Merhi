@@ -1,4 +1,11 @@
-# Hi, My name is Mimi (Merhawit), Welcome to my GitHub Page!
+# 
+
+![Modern Minimal Technology Background Cover](https://user-images.githubusercontent.com/106712098/180472374-5749948a-6927-4afd-817b-c92ee219f794.png)
+
+
+
+ Hi, My name is Mimi (Merhawit), Welcome to my GitHub Page!
+
 I am currently working on a messaging board called Fear AI using a variety of front and back end languages, databases and<br>deployment systems: React, Node.JS, express, MySQL, css, bootstrap, AWS and GitHub.<br><br>I am polishing up my skills on the systems listed above. I am looking forward to learning new languages and systems. <br><br>Fun Fact I love math and cooking! They are very relaxing to me, which is probably why i love coding as well. I love finding solutions to problems and being creative. 
 
 
